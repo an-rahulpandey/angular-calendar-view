@@ -1,0 +1,67 @@
+{
+  "_from": "angular-calendar-year-view",
+  "_id": "angular-calendar-year-view@2.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-UxNF6vsCOtWVLhQTlW1WwOb6q3UT+DQXDn/dMBz53cQ3qpY+lo0e278MhCkeDz6qYyi5mIRGGWCo+vvw0Prr6A==",
+  "_location": "/angular-calendar-year-view",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "angular-calendar-year-view",
+    "name": "angular-calendar-year-view",
+    "escapedName": "angular-calendar-year-view",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular-calendar-year-view/-/angular-calendar-year-view-2.0.2.tgz",
+  "_shasum": "0e707526f24b1cdfb7053df89bfe3d65f11a63e9",
+  "_spec": "angular-calendar-year-view",
+  "_where": "/home/nexususer/Desktop/github/latest/alexur-client",
+  "bundleDependencies": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  },
+  "deprecated": false,
+  "description": "angular-calendar-year-view based on angular calendar moduel",
+  "es2015_ivy_ngcc": "__ivy_ngcc__/fesm2015/angular-calendar-year-view.js",
+  "es2015": "fesm2015/angular-calendar-year-view.js",
+  "esm2015": "esm2015/angular-calendar-year-view.js",
+  "esm5": "esm5/angular-calendar-year-view.js",
+  "fesm2015_ivy_ngcc": "__ivy_ngcc__/fesm2015/angular-calendar-year-view.js",
+  "fesm2015": "fesm2015/angular-calendar-year-view.js",
+  "fesm5": "fesm5/angular-calendar-year-view.js",
+  "keywords": [
+    "angular",
+    "javascript",
+    "typescript",
+    "typeahead",
+    "directive",
+    "angular-material"
+  ],
+  "license": "MIT",
+  "main": "bundles/angular-calendar-year-view.umd.js",
+  "metadata": "angular-calendar-year-view.metadata.json",
+  "module": "fesm5/angular-calendar-year-view.js",
+  "name": "angular-calendar-year-view",
+  "peerDependencies": {
+    "@angular/common": "^7.1.0",
+    "@angular/core": "^7.1.0"
+  },
+  "sideEffects": false,
+  "typings": "angular-calendar-year-view.d.ts",
+  "version": "2.0.2",
+  "__processed_by_ivy_ngcc__": {
+    "es2015": "12.0.1",
+    "fesm2015": "12.0.1",
+    "typings": "12.0.1"
+  },
+  "scripts": {
+    "prepublishOnly": "node --eval \"console.error('ERROR: Trying to publish a package that has been compiled by NGCC. This is not allowed.\\nPlease delete and rebuild the package, without compiling with NGCC, before attempting to publish.\\nNote that NGCC may have been run by importing this package into another project that is being built with Ivy enabled.\\n')\" && exit 1"
+  }
+}
