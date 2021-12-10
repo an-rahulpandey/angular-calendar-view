@@ -1,0 +1,10 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,missingOverride,missingReturn,unusedPrivateMembers,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of angular-calendar-year-view
+ */
+export { AngularCalendarYearViewComponent } from './lib/angular-calendar-year-view.component';
+export { AngularCalendarYearViewModule } from './lib/angular-calendar-year-view.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2FuZ3VsYXItY2FsZW5kYXIteWVhci12aWV3LyIsInNvdXJjZXMiOlsicHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7Ozs7O0FBSUEsaURBQWMsNENBQTRDLENBQUM7QUFDM0QsOENBQWMseUNBQXlDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIGFuZ3VsYXItY2FsZW5kYXIteWVhci12aWV3XG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvYW5ndWxhci1jYWxlbmRhci15ZWFyLXZpZXcuY29tcG9uZW50JztcbmV4cG9ydCAqIGZyb20gJy4vbGliL2FuZ3VsYXItY2FsZW5kYXIteWVhci12aWV3Lm1vZHVsZSc7XG4iXX0=
